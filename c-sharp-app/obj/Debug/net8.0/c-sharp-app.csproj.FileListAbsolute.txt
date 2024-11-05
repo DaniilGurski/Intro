@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\bin\Debug\net8.0\c-sharp-app.exe
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\bin\Debug\net8.0\c-sharp-app.deps.json
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\bin\Debug\net8.0\c-sharp-app.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\bin\Debug\net8.0\c-sharp-app.dll
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\bin\Debug\net8.0\c-sharp-app.pdb
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.dll
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\refint\c-sharp-app.dll
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.pdb
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\c-sharp-app.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\Prog.2\c-sharp-app\c-sharp-app\obj\Debug\net8.0\ref\c-sharp-app.dll
